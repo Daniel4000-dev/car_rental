@@ -24,6 +24,7 @@ const Hero = () => {
           className='w-full object-cover'
         />
       </div>
+      {/* <div className='hero__image-overlay' /> */}
     </div>
   )
 }
